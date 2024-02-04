@@ -11,5 +11,5 @@ insert_final_newline = true
 [*.{csv,html,json,jsonc,md,toml,yml,yaml}]
 indent_size = 2
 
-[*.{md,yml,yaml}]
+[*.{md,py,yml,yaml}]
 indent_style = space
