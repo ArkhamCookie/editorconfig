@@ -1,5 +1,9 @@
 # ArkhamCookie's editorconfig
 
+My [editorconfig](https://editorconfig.org) config file.
+
+## Styles
+
 | File Type | Indent Size | Indent Style |
 | :---: | :---: | :---: |
 | Default | 4 | Tab |
