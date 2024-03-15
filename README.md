@@ -3,3 +3,12 @@
 | File Type | Indent Size | Indent Style |
 | :---: | :---: | :---: |
 | Default | 4 | Tab |
+| csv | 2 | Tab |
+| HTML | 2 | Tab |
+| json | 2 | Tab |
+| jsx | 2 | Tab |
+| markdown | 2 | Space |
+| shell | 2 | Space |
+| TOML | 2 | Tab |
+| tsx | 2 | Tab |
+| YAML | 2 | Space |
