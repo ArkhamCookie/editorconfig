@@ -11,7 +11,7 @@ My [editorconfig](https://editorconfig.org) config file.
 | HTML | 2 | Tab |
 | json | 2 | Tab |
 | jsx | 2 | Tab |
-| markdown | 2 | Space |
+| Markdown | 2 | Space |
 | shell | 2 | Space |
 | TOML | 2 | Tab |
 | tsx | 2 | Tab |
