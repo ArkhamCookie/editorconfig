@@ -8,6 +8,7 @@ My [editorconfig](https://editorconfig.org) config file.
 | :---: | :---: | :---: |
 | Default | 4 | Tab |
 | csv | 2 | Tab |
+| ejs | 2 | Tab |
 | HTML | 2 | Tab |
 | json | 2 | Tab |
 | jsx | 2 | Tab |
