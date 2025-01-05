@@ -13,6 +13,7 @@ My [editorconfig](https://editorconfig.org) config file.
 | json | 2 | Tab |
 | jsx | 2 | Tab |
 | Markdown | 2 | Space |
+| pug | 2 | Tab |
 | shell | 2 | Space |
 | TOML | 2 | Tab |
 | tsx | 2 | Tab |
