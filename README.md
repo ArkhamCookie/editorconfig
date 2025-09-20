@@ -18,5 +18,6 @@ My [editorconfig](https://editorconfig.org) config file.
 | Python | 4 | Space |
 | shell | 2 | Space |
 | TOML | 2 | Tab |
-| tsx | 2 | Tab |
+| tsx | 2 | Tab
+| qml | 4 | Space |
 | YAML | 2 | Space |
