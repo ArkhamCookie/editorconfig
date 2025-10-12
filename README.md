@@ -14,6 +14,7 @@ My [editorconfig](https://editorconfig.org) config file.
 | jsx | 2 | Tab |
 | Markdown | 2 | Space |
 | Nim | 4 | Space |
+| Nix | 4 | Space |
 | pug | 2 | Tab |
 | Python | 4 | Space |
 | shell | 2 | Space |
